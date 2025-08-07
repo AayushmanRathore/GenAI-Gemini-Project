@@ -56,7 +56,7 @@ You were provided a sandbox environment to build and deploy the solution using c
 
 ## 🙏 Credits
 
-💡 Special thanks to [@abhishek7py](https://github.com/abhishek7py)  
+💡 Special thanks to [@itsabhishek7py](https://github.com/itsabhishek7py)  
 This project was inspired by and adapted from his helpful reference repository.  
 His work laid a strong foundation for the successful completion of this lab.
 
