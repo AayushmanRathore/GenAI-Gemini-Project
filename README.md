@@ -52,6 +52,9 @@ You were provided a sandbox environment to build and deploy the solution using c
 - Lightweight Streamlit UI for seamless interaction  
 - Fast deployment via Cloud Run for easy access
 
+## Demo video link-
+https://youtu.be/O9--nCGEt-k?si=W0C_LTr8iPYb8J_Y
+
 ---
 
 ## 🙏 Credits
